@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+</head>
+<body>
+<h1 style="text-align: center">Appointment Time Preference</h1>
+
+<!-- Get user input from the form and send it to /formPost -->
+<form method="post" action="/formPost">
+    <table>
+        <tr>
+            <td>First Name: <input type="text" name="fName"></td>
+        </tr>
+        <tr>
+            <td>Email: <input type="email" name="email"></td>
+        </tr>
+        <tr>
+            <td>Day: <input type="date" name="aDate"></td>
+        </tr>
+        <td>Time: <input type="time" name="aTime"></td>
+    </table>
+    <input type="submit" value="Go!">
+</form>
+</body>
+</html>
