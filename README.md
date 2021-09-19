@@ -2,7 +2,7 @@
 This is my first attempt using Java Enterprise Edition. This program intakes a user input from an html form, saves it to the various different attributes within the 
 Appointment.java class and prints it out on the IDE console. 
 
-Code located in [here](https://github.com/RaviRamchand/book-appointment/tree/main/ex21_requestParams/src/main)
+Code located [here](https://github.com/RaviRamchand/book-appointment/tree/main/ex21_requestParams/src/main)
 
 
 
